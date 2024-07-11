@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="c000000">#000000</color>
+    <color name="cFFFFFF">#FFFFFF</color>
+    <color name="c55524D">#55524d</color>
+    <color name="c333333">#333333</color>
+    <color name="cF04137">#f04137</color>
+    <color name="cE72A20">#e72a20</color>
+    <color name="cF0F0F0">#F0F0F0</color>
+    <color name="cF6F6F6">#F6F6F6</color>
+    <color name="cDDDDDD">#DDDDDD</color>
+    <color name="cC8C8C8">#C8C8C8</color>
+    <color name="cBBBBBB">#BBBBBB</color>
+    <color name="c999999">#999999</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="c06A2CB_INOUT">#06a2cb</color>
+    <color name="c1F8659_MONTH">#1f8659</color>
+    <color name="cECB036_FREE">#ecb036</color>
+    <color name="cCD58E6">#cd58e6</color>
+    <color name="dialog_bg">#80000000</color>
+</resources>

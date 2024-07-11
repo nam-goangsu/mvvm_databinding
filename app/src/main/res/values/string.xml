@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">차계부</string>
+    <string name="dialog_carnumber">차량번호</string>
+    <string name="dialog_modelname">모델명</string>
+    <string name="dialog_ODD">현제 주행거리</string>
+    <string name="dialog_STDAY">시작일</string>
+
+    <string name="title_home">"홈"</string>
+    <string name="title_dashboard">etc</string>
+    <string name="title_notifications">noti</string>
+
+</resources>
