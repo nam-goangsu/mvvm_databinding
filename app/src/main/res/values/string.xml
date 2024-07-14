@@ -9,5 +9,6 @@
     <string name="title_home">"홈"</string>
     <string name="title_dashboard">etc</string>
     <string name="title_notifications">noti</string>
+    <string name="title_maps">map</string>
 
 </resources>

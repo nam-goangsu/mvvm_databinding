@@ -14,10 +14,8 @@ class ViewPager2Adapter(fragmentActivity: FragmentActivity) :FragmentStateAdapte
     }
 
     override fun createFragment(position: Int): Fragment {
-        Log.d("fragment" ,"fragment ${position}")
-        return fragments[position]
-        Log.d("fragment1" ,"fragment ${position}")
 
+        return fragments[position]
     }
 
 
